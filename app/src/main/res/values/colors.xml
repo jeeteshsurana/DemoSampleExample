@@ -1,0 +1,132 @@
+<resources>
+    <color name="colorPrimary">#EC87C0</color>
+    <color name="colorPrimaryDark">#D770AD</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="setting_background">#ECEFF1</color>
+    <color name="gray_back">#FF464B50</color>
+    <color name="gray">#d3d3d3</color>
+    <color name="PinkRoseLightTransparent">#8cEC87C0</color>
+    <color name="progressBar">#ff0600</color>
+
+    <!--Black-->
+    <color name="colorPrimaryBlack">@color/DarkGrayLight</color>
+    <color name="colorPrimaryDarkBlack">@color/DarkGrayDark</color>
+    <color name="colorAccentBlack">@color/DarkGrayLight</color>
+
+    <!--Blue-->
+    <color name="colorPrimaryBlue">@color/BlueJeansLight</color>
+    <color name="colorPrimaryDarkBlue">@color/BlueJeansDark</color>
+    <color name="colorAccentBlue">@color/BlueJeansLight</color>
+
+    <!--BlueGreen-->
+    <color name="colorPrimaryBlueGreen">@color/MintLight</color>
+    <color name="colorPrimaryDarkBlueGreen">@color/MintDark</color>
+    <color name="colorAccentBlueGreen">@color/MintLight</color>
+
+    <!--GreyBlue-->
+    <color name="colorPrimaryGreyBlue">@color/AquaLight</color>
+    <color name="colorPrimaryDarkGreyBlue">@color/AquaDark</color>
+    <color name="colorAccentGreyBlue">@color/AquaLight</color>
+
+    <!--Pink-->
+    <color name="colorPrimaryPink">@color/PinkRoseLight</color>
+    <color name="colorPrimaryDarkPink">@color/PinkRoseDark</color>
+    <color name="colorAccentPink">@color/PinkRoseLight</color>
+
+    <!--Yellow-->
+    <color name="colorPrimaryYellow">@color/SunflowerLight</color>
+    <color name="colorPrimaryDarkYellow">@color/SunflowerDark</color>
+    <color name="colorAccentYellow">@color/SunflowerLight</color>
+
+    <!--Red-->
+    <color name="colorPrimaryRed">@color/GrapeFruitLight</color>
+    <color name="colorPrimaryDarkRed">@color/GrapeFruitDark</color>
+    <color name="colorAccentRed">@color/GrapeFruitLight</color>
+
+    <!--Green-->
+    <color name="colorPrimaryGreen">@color/GrassLight</color>
+    <color name="colorPrimaryDarkGreen">@color/GrassDark</color>
+    <color name="colorAccentGreen">@color/GrassLight</color>
+
+    <!--Purple-->
+    <color name="colorPrimaryPurple">@color/LavanderLight</color>
+    <color name="colorPrimaryDarkPurple">@color/LavanderDark</color>
+    <color name="colorAccentPurple">@color/LavanderLight</color>
+
+
+
+    <!--GrapeFruit-->
+    <color name="GrapeFruitLight">#ED5565</color>
+    <color name="GrapeFruitDark">#DA4453</color>
+
+    <!--BitterSweet-->
+    <color name="BitterSweetlight">#FC6E51</color>
+    <color name="BitterSweetDark">#E9573F</color>
+
+    <!--Sunflower-->
+    <color name="SunflowerLight">#FFCE54</color>
+    <color name="SunflowerDark">#F6BB42</color>
+
+    <!--Grass-->
+    <color name="GrassLight">#A0D468</color>
+    <color name="GrassDark">#8CC152</color>
+
+    <!--Mint-->
+    <color name="MintLight">#48CFAD</color>
+    <color name="MintDark">#37BC9B</color>
+
+    <!--Aqua-->
+    <color name="AquaLight">#4FC1E9</color>
+    <color name="AquaDark">#3BAFDA</color>
+
+    <!--BlueJeans-->
+    <color name="BlueJeansLight">#5D9CEC</color>
+    <color name="BlueJeansDark">#4A89DC</color>
+
+    <!--Lavander-->
+    <color name="LavanderLight">#AC92EC</color>
+    <color name="LavanderDark">#967ADC</color>
+
+    <!--PinkRose-->
+    <color name="PinkRoseLight">#EC87C0</color>
+    <color name="PinkRoseDark">#D770AD</color>
+
+    <!--LightGray-->
+    <color name="LightGrayLight">#F5F7FA</color>
+    <color name="LightGrayDark">#E6E9ED</color>
+
+    <!--MediumGray-->
+    <color name="MediumGrayLight">#CCD1D9</color>
+    <color name="MediumGrayDark">#AAB2BD</color>
+
+    <!--DarkGray-->
+    <color name="DarkGrayLight">#656D78</color>
+    <color name="DarkGrayDark">#434A54</color>
+
+    <color name="transparentBlack">#80000000</color>
+    <color name="transparentBlack65">#B3000000</color>
+    <color name="transparent20">#33000000</color>
+    <!--Here's a correct table of percentages to hex values. E.g. for 50% white you'd use #80FFFFFF.-->
+
+    <!--100% — FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+</resources>
